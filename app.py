@@ -12,7 +12,6 @@ wastage_reasons = [
 "Courier unreachable",
 "Customer cancelled; Order took longer than expected ",
 "Customer never received the order ",
-"Customer received inedible food",
 "Duplicate order",
 "Food quality:Spillage",
 "Incorrect address",
