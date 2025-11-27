@@ -13,6 +13,7 @@ wastage_reasons = [
 "Customer cancelled; Order took longer than expected ",
 "Customer never received the order ",
 "Duplicate order",
+"plugins.reports.order_details_report.unsafe_delivery_area",
 "Food quality:Spillage",
 "Incorrect address",
 "No rider available",
